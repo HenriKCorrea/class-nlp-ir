@@ -179,3 +179,4 @@ class/text-classification/*.csv
 *.csv
 *.model
 *.txt
+*.zip
