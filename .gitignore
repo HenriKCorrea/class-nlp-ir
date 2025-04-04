@@ -177,3 +177,5 @@ cython_debug/
 assignments/2-preprocessing/ReviewsAmericanas.csv
 class/text-classification/*.csv
 *.csv
+*.model
+*.txt
