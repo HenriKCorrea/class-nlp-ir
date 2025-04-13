@@ -1,0 +1,16 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/python:3.10",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot-chat",
+        "GitHub.copilot",
+        "ms-toolsai.jupyter",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "KevinRose.vsc-python-indent",
+        "ms-toolsai.datawrangler"
+      ]
+    }
+  }
+}
